@@ -1,5 +1,7 @@
 <h1>⭐ About the Project</h1>
 
+![YouTube-Clone](./youtube-clone.jpg)
+
 YouTube-Clone is a clone of the home page of YouTube.
 <br>
 You can see the project by clicking this link: https://amrbedir.github.io/YouTube-Clone/
